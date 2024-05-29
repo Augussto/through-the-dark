@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: cd4be913d8f6be9448b8b9f3354c688f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f27ecea8274ff848b5a5775cdf0101b
+      internalID: 747793989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 187
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755f58d8139633f488cca8c8d356eac5
+      internalID: -43214865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 157
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aba720190640cc4896024660a47a2c7
+      internalID: 1608115632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64c37f9474a724ea29940052d09418
+      internalID: -805427916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 187
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f3156cc9bd78147a03a4ada83841de
+      internalID: 599485361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd58fd6da5a5414bb8b3d0dd53f6207
+      internalID: -905981758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 186
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350cf99cc711cd14d86c41de29c6ce61
+      internalID: -1017008184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 169
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9e04bb776ebef458907d4c6677ccb6
+      internalID: -1793363917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 137
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2674043bee2b04e86ac1180bd43645
+      internalID: 623291084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 169
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb7a31dbc3a524f9d018b5bb832341
+      internalID: -2130634574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 186
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01830d38131cb72438ebfcfd69845fba
+      internalID: 1135521024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 153
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc75f9d07b1e1449a9e577658717751
+      internalID: 446718162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 169
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ada980be8bbc47b2a1cd8c9904436
+      internalID: -976844735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fbbf269e70b8344a49821d0574f0c0
+      internalID: 1691101882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 136
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206b4f727c5f6b438b6bf5dc9ff989e
+      internalID: -1217071408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 141
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323d31c828551c489aaaab932d8162b
+      internalID: -711280385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 141
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f8b7fbfcf40d48852ed5e25ff1456
+      internalID: -1071586097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33da293bb6ee90045b4a55b48123368f
+      internalID: -1342183875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaaba723b4ed81499f76a5e94a015e7
+      internalID: -371330435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89870807713121248bef12c2a4b74b9e
+      internalID: 1615068117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 123
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688cc214265e06498ea67a5cc734bd4
+      internalID: -1746599147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 105
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14474f8d1dc0d5743b5ed72a47966cb6
+      internalID: 112190119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 105
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3734865a26576a4ebec079c45591a34
+      internalID: 240455799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0340df561ad999842a8323e6a0ad236c
+      internalID: 1440654649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 89
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783658772110b14b81d0a70fea30ff1
+      internalID: 1144414519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e9cc38f1a84534fbaea0ecc59bcac2
+      internalID: 1536920492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 68
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e812550e817544b98188147fc6051
+      internalID: 1150176245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f017ae0a65574d8258805c8e044d8
+      internalID: -1207465884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 74
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c20ad699734ea47b4429394308fd27
+      internalID: -481562999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 75
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626ee3f457d3cf345bfab2cf30bab64e
+      internalID: -133747743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 77
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36d2d48d0620264f9f5eb2ce9561c72
+      internalID: 1447498817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 77
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdfc2b58daa0254296c5066a5962202
+      internalID: -470406826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 52
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d87aee4da6b6344a843f37b04a675d8
+      internalID: -1552910024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 57
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bda45e38f00d44487b24f07f4d7326
+      internalID: -1047559204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 61
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec46b93d34363845b48f54a0175d1d4
+      internalID: -269583674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 57
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec1f1a7dcdf26b4c8f99189915dd178
+      internalID: 2079279141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: -14}
+        - {x: -6.5, y: -17}
+        - {x: 6.5, y: -17}
+        - {x: 6.5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4356cb6b0c6e94cbd276e876ec29a1
+      internalID: 1639707890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: -13}
+        - {x: -6.5, y: -17}
+        - {x: 6.5, y: -17}
+        - {x: 6.5, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f89036805ec1a489847694339d8c40
+      internalID: 1588735712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: -15.5}
+        - {x: -7.5, y: -19.5}
+        - {x: 7.5, y: -19.5}
+        - {x: 7.5, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbebeac4073cb84cb2a68d3cd444986
+      internalID: -727020656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de4e23a65084754e88010b508456459
+      internalID: -576758822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 20
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b5245d1e48fb4cb2a34e940bdd7f3
+      internalID: 1210947746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a9713be15123c43b7965c1c6e57fb7
+      internalID: 625791710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 107
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e81f233601ed49a52fd4138538189
+      internalID: -368394673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 107
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a746385450b06e4cac26bdd5a704f0d
+      internalID: -1942060592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 126
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbb7526f116c094fafdc3f462a1fc10
+      internalID: -434028483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673cb080887b350418ed6d57c4ce9e47
+      internalID: -25002305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 169
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec2269f7562d6649b9af65990c114fb
+      internalID: -495262702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 158
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de92d1b9c4e1b4fb94c115d2fb0c97
+      internalID: -1365219635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 158
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854091de0e0a474db6ebb6b4d0664ea
+      internalID: 1957368057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos_juntos_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 169
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb3cc4d22d46b489a520532fb1d857
+      internalID: 482226668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Objetos_juntos_16x16_0: 747793989
+      Objetos_juntos_16x16_1: -43214865
+      Objetos_juntos_16x16_10: 1135521024
+      Objetos_juntos_16x16_11: 446718162
+      Objetos_juntos_16x16_12: -976844735
+      Objetos_juntos_16x16_13: 1691101882
+      Objetos_juntos_16x16_14: -1217071408
+      Objetos_juntos_16x16_15: -711280385
+      Objetos_juntos_16x16_16: -1071586097
+      Objetos_juntos_16x16_17: -1342183875
+      Objetos_juntos_16x16_18: -371330435
+      Objetos_juntos_16x16_19: 1615068117
+      Objetos_juntos_16x16_2: 1608115632
+      Objetos_juntos_16x16_20: -1746599147
+      Objetos_juntos_16x16_21: 112190119
+      Objetos_juntos_16x16_22: 240455799
+      Objetos_juntos_16x16_23: 1440654649
+      Objetos_juntos_16x16_24: 1144414519
+      Objetos_juntos_16x16_25: 1536920492
+      Objetos_juntos_16x16_26: 1150176245
+      Objetos_juntos_16x16_27: -1207465884
+      Objetos_juntos_16x16_28: -481562999
+      Objetos_juntos_16x16_29: -133747743
+      Objetos_juntos_16x16_3: -805427916
+      Objetos_juntos_16x16_30: 1447498817
+      Objetos_juntos_16x16_31: -470406826
+      Objetos_juntos_16x16_32: -1552910024
+      Objetos_juntos_16x16_33: -1047559204
+      Objetos_juntos_16x16_34: -269583674
+      Objetos_juntos_16x16_35: 2079279141
+      Objetos_juntos_16x16_36: 1639707890
+      Objetos_juntos_16x16_37: 1588735712
+      Objetos_juntos_16x16_38: -727020656
+      Objetos_juntos_16x16_39: -576758822
+      Objetos_juntos_16x16_4: 599485361
+      Objetos_juntos_16x16_40: 1210947746
+      Objetos_juntos_16x16_41: 625791710
+      Objetos_juntos_16x16_42: -368394673
+      Objetos_juntos_16x16_43: -1942060592
+      Objetos_juntos_16x16_44: -434028483
+      Objetos_juntos_16x16_45: -25002305
+      Objetos_juntos_16x16_46: -495262702
+      Objetos_juntos_16x16_47: -1365219635
+      Objetos_juntos_16x16_48: 1957368057
+      Objetos_juntos_16x16_49: 482226668
+      Objetos_juntos_16x16_5: -905981758
+      Objetos_juntos_16x16_6: -1017008184
+      Objetos_juntos_16x16_7: -1793363917
+      Objetos_juntos_16x16_8: 623291084
+      Objetos_juntos_16x16_9: -2130634574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

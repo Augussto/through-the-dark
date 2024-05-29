@@ -1,0 +1,2397 @@
+fileFormatVersion: 2
+guid: 9aa022505f02a0b43b193bf4b41bc2ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: paredes que faltan_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae53137fe847846937c0a0a62bcfde
+      internalID: -1847527742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e36007658f08da4e90841789ea25576
+      internalID: -1568720414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8299e133e8d0d44bbe8246d6fddc4c0
+      internalID: 686355309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c6cb61b5aacd643bb10bfe31473f18
+      internalID: -1533391679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da1c60f632217a4cbc3f9970ca16ac3
+      internalID: 1591998058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece3d3a207709e4cbd7e4fd76f66066
+      internalID: 459009594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c4def473a5f1542b9a63de3433ea05
+      internalID: -2024877896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27198c88855b1bd489cf00e9e6841d3d
+      internalID: 1191202084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083439a541937014f825d6b6348440c7
+      internalID: -25765812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28acc5571192bbb419c6fc8728997d6f
+      internalID: 14818820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ec850db2b6a5c458f7daafd95c0740
+      internalID: 143578136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bf628c1d4e71d4987f0fb0d976cb80
+      internalID: 112604727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fcd9ca1ae12ce4c8e45687739fc5dd
+      internalID: 670002622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9896cbd1d8a484497083ee6ef9f78c
+      internalID: 1867674237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad14f66f2d0b004db82d07c9e19d96e
+      internalID: -1157191650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a7d1b7d0a73b4286bb50da6ca9f49
+      internalID: 621264778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d8826dea097f042a27c4b099dde65c
+      internalID: 2105522561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0996dcef08a488f44a152f2043d34284
+      internalID: -1811887984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d3b6148b09f984fa0383b60ec62a16
+      internalID: 1797667790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264fc83695d6c94cb469a31ddc7ac77
+      internalID: -1394713401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7d91c28753d974fb810721c9e91314
+      internalID: 1973267642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb015f532304f946bd5e9682b422223
+      internalID: -697141881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026d4babe8bb17b4785236609c00d36c
+      internalID: -1406649644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c9d61d4b64b3f49a41bdce685c7504
+      internalID: -1194929411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80b894fc8dd4484da10e1d55a4d687c
+      internalID: 51326503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cfbfd9cd4f36f448aa9505c41e77ce
+      internalID: 444238453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6df538ba9440e41b3d8fc73d7956ac
+      internalID: 428863351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd7d12f0e453c49a3742476ad701b5
+      internalID: 975451300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46263a1f5bc53174cab23902e0731fc3
+      internalID: 1054373251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f6e6706cf6d0c44918308aaf26bf30
+      internalID: 252764511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da30f3e12bce5e49b5e271b3ed5f42a
+      internalID: -1434744740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87857ed922c6aa04a80177c28f657600
+      internalID: 2098047968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf48d4fc686c34c95ca8250ac68e71
+      internalID: -1391280545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db2d0282bf7da74dbcc08564927db84
+      internalID: 815935722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e032737fcfb0242bf8ef41f69f1c3a
+      internalID: 1366527423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c79735acfb165c4782fc966677e7a4f
+      internalID: 995492016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cae99ada033cf41a04057ff62d3c94
+      internalID: -1317158178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302886c6e4debf34d839323377c14ba1
+      internalID: 1601444239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7e147adc38e6d4db7b06f634815eee
+      internalID: 245189606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c70dc15b6c0d48a2d1dc42f5089db
+      internalID: 1835486882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef36bcd92294048be6b9d7b5133a5f
+      internalID: 969428394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b563e0234e0c43448bf938af6512b32
+      internalID: 1368367384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496d39f38a7d13e4f9c6a52e25817639
+      internalID: 44615829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855537524802f0f4dbe543ef1b20241b
+      internalID: -1725619572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a9c40d701643a42be23a1696fe653b
+      internalID: -1441352214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131dfd787855fec4fba4fb18d6630617
+      internalID: 2008314052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab33346e07b7fc47ade7e4af553847f
+      internalID: -1949285866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57529ffb1fd89e948a3038e738c3ea03
+      internalID: 2136543371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143dd0fb7d9a6924c883c59eadb44578
+      internalID: -1048178276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5db0a8b416a8b4c8616999a32a6eb9
+      internalID: 1844075330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0fddb936f173145b6bfda6b9ff30b6
+      internalID: 1822310613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4cc13fd4062d34d8499a6f67cbe320
+      internalID: 974438075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_52
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0bf904be272e14580e1f307ff29dae
+      internalID: -758224188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d708d3ce1bb2c874891393c96221b7ab
+      internalID: -1065492810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ecf6e3f83793544a412f97f4765ec6
+      internalID: 1174193390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa98047410692344a787d17af279744
+      internalID: 2102793505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e792d6f6c7f02a6498da1bcec5918a6a
+      internalID: -1343561533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_57
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46607b1ac7cf2bb4b919df08a8e9acfd
+      internalID: -909995843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcea4995ac8609b4f9e5ee674379eb70
+      internalID: -2056932842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0077c90c97d4758409d7fd5c35a61fd6
+      internalID: -845603742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd3fcba192ab54b9a73f2476a6cec5
+      internalID: -1418105578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9693b23ef05110244968cebec4aead45
+      internalID: 1356704642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3311db54bb171c4f8781ddf2403f9d8
+      internalID: 914180300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc4e16727930854f8936d7b0136fba4
+      internalID: -1534594266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_64
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e37837ba0ce9ae49a127c7a9c24a749
+      internalID: 899810730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_65
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca8f476f05c892469157a73625452ad
+      internalID: 1053285752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82edc1a035093ad4f84b4ef454a209ab
+      internalID: 267414037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152aebf84d368f48be558d5afcd6042
+      internalID: -368630685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964b7acab0b78044b8c5eb9364035918
+      internalID: 1187002031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735381c9fb94784093ca53cd00c84d8
+      internalID: -1249175577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb7209c71dd5454784eada52a946cb4
+      internalID: 214320929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_71
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739823c0f3cc521429ce52040fcda46a
+      internalID: 505864974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_72
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ff5cb3981642047a4c2145fc2fa77c
+      internalID: 741885850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97bb5ca8ca1b4d438927075eb6873b4
+      internalID: 407317558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_74
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d698fdd43aea06c4bae21a2efa494848
+      internalID: -1584658854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_75
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3521ef0a91e24d8fed9240c30ab28
+      internalID: -1351870578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_76
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db74fc33ce72fa04e896cd6c0804a8d6
+      internalID: 1760057203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb5f74e954174f4baff640cfbaacf04
+      internalID: -1153933120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af5bdea0b70d274e82e4b433dc72d6d
+      internalID: 372163579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_79
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef3d9a02eab6e469928f92d76a5a93
+      internalID: 725033020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00ffef6d243d64cae226d0c0e86e2f
+      internalID: -537602098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_81
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0a9ee092ccaba4b89a910d2eee9ee5
+      internalID: -1336795627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_82
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3273928b839ae44bd64dd66035f2f8
+      internalID: -1344227164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e564aca646eaf604d9d1029ad0e39d00
+      internalID: 1504550390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07482622361cde041890f3ada9b3b24a
+      internalID: 307530660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd1a466b19e6454b9f8102e4a9175a8
+      internalID: -204587075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_86
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b253e40fa953d34b85d93563ef2ee3b
+      internalID: -750618269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_87
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f54d4d34ba0a74c90564dccf16ed73
+      internalID: 1762220865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_88
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a1f88f7bf773d448b84385ebf565dd
+      internalID: 2088009023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_89
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85498219de8c43b45a713b0cedbf4686
+      internalID: 1436453114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e10714e864064c9a20beb69ad6c3f
+      internalID: -1604252531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ef694ebfd35124dac2a4ba2c337c91
+      internalID: -1476107953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_92
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64d65960c7c4a348a68e620378cf4ee
+      internalID: -419826521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_93
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d151d16c243e4da44b3360536ac38958
+      internalID: 1018823913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_94
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6edc43e9b5e6bd439de814084b74e37
+      internalID: -59823368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de6d073acc92f9439b0e668d0fa081c
+      internalID: -952626232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_96
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce867495df96b7242a48ba1664a00a98
+      internalID: -829532251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_97
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d10f8d697d20f4bbd75c832b6eca31
+      internalID: 173953083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_98
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac731f3338c98e4b9b4cfb72c02741a
+      internalID: 1890248255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_99
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459bc0069bf05124b980ccbcf628a8a3
+      internalID: 1660855989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_100
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fb74a975bb894fb9fcf36496605d1
+      internalID: 370949084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paredes que faltan_101
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d4641a6adce94a8c442b1025b27c9
+      internalID: -942583547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      paredes que faltan_0: -1847527742
+      paredes que faltan_1: -1568720414
+      paredes que faltan_10: 143578136
+      paredes que faltan_100: 370949084
+      paredes que faltan_101: -942583547
+      paredes que faltan_11: 112604727
+      paredes que faltan_12: 670002622
+      paredes que faltan_13: 1867674237
+      paredes que faltan_14: -1157191650
+      paredes que faltan_15: 621264778
+      paredes que faltan_16: 2105522561
+      paredes que faltan_17: -1811887984
+      paredes que faltan_18: 1797667790
+      paredes que faltan_19: -1394713401
+      paredes que faltan_2: 686355309
+      paredes que faltan_20: 1973267642
+      paredes que faltan_21: -697141881
+      paredes que faltan_22: -1406649644
+      paredes que faltan_23: -1194929411
+      paredes que faltan_24: 51326503
+      paredes que faltan_25: 444238453
+      paredes que faltan_26: 428863351
+      paredes que faltan_27: 975451300
+      paredes que faltan_28: 1054373251
+      paredes que faltan_29: 252764511
+      paredes que faltan_3: -1533391679
+      paredes que faltan_30: -1434744740
+      paredes que faltan_31: 2098047968
+      paredes que faltan_32: -1391280545
+      paredes que faltan_33: 815935722
+      paredes que faltan_34: 1366527423
+      paredes que faltan_35: 995492016
+      paredes que faltan_36: -1317158178
+      paredes que faltan_37: 1601444239
+      paredes que faltan_38: 245189606
+      paredes que faltan_39: 1835486882
+      paredes que faltan_4: 1591998058
+      paredes que faltan_40: 969428394
+      paredes que faltan_41: 1368367384
+      paredes que faltan_42: 44615829
+      paredes que faltan_43: -1725619572
+      paredes que faltan_44: -1441352214
+      paredes que faltan_45: 2008314052
+      paredes que faltan_46: -1949285866
+      paredes que faltan_47: 2136543371
+      paredes que faltan_48: -1048178276
+      paredes que faltan_49: 1844075330
+      paredes que faltan_5: 459009594
+      paredes que faltan_50: 1822310613
+      paredes que faltan_51: 974438075
+      paredes que faltan_52: -758224188
+      paredes que faltan_53: -1065492810
+      paredes que faltan_54: 1174193390
+      paredes que faltan_55: 2102793505
+      paredes que faltan_56: -1343561533
+      paredes que faltan_57: -909995843
+      paredes que faltan_58: -2056932842
+      paredes que faltan_59: -845603742
+      paredes que faltan_6: -2024877896
+      paredes que faltan_60: -1418105578
+      paredes que faltan_61: 1356704642
+      paredes que faltan_62: 914180300
+      paredes que faltan_63: -1534594266
+      paredes que faltan_64: 899810730
+      paredes que faltan_65: 1053285752
+      paredes que faltan_66: 267414037
+      paredes que faltan_67: -368630685
+      paredes que faltan_68: 1187002031
+      paredes que faltan_69: -1249175577
+      paredes que faltan_7: 1191202084
+      paredes que faltan_70: 214320929
+      paredes que faltan_71: 505864974
+      paredes que faltan_72: 741885850
+      paredes que faltan_73: 407317558
+      paredes que faltan_74: -1584658854
+      paredes que faltan_75: -1351870578
+      paredes que faltan_76: 1760057203
+      paredes que faltan_77: -1153933120
+      paredes que faltan_78: 372163579
+      paredes que faltan_79: 725033020
+      paredes que faltan_8: -25765812
+      paredes que faltan_80: -537602098
+      paredes que faltan_81: -1336795627
+      paredes que faltan_82: -1344227164
+      paredes que faltan_83: 1504550390
+      paredes que faltan_84: 307530660
+      paredes que faltan_85: -204587075
+      paredes que faltan_86: -750618269
+      paredes que faltan_87: 1762220865
+      paredes que faltan_88: 2088009023
+      paredes que faltan_89: 1436453114
+      paredes que faltan_9: 14818820
+      paredes que faltan_90: -1604252531
+      paredes que faltan_91: -1476107953
+      paredes que faltan_92: -419826521
+      paredes que faltan_93: 1018823913
+      paredes que faltan_94: -59823368
+      paredes que faltan_95: -952626232
+      paredes que faltan_96: -829532251
+      paredes que faltan_97: 173953083
+      paredes que faltan_98: 1890248255
+      paredes que faltan_99: 1660855989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

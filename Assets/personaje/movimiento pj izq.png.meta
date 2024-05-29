@@ -1,0 +1,1935 @@
+fileFormatVersion: 2
+guid: 8c97286ee3ed9fa41bd28539c6e0158e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tecla A 1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 75
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5823d027e265ec44ea845d81cf1cb828
+      internalID: -1927529131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 93
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3514e3b2274d147bdec1bdc492e6b3
+      internalID: -1162515119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 72
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2247bf275788ba4aa4d14931f096acf
+      internalID: 524714480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tecla S 2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 75
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ae2bf1b030f21478c8b7941d2860e3
+      internalID: -1513772974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a332d7218ad274e459f9cf43a2cd6e3e
+      internalID: -400890383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 72
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2e0da915825ff48ae4939947f6ca38
+      internalID: -793598974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tecla S 3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 75
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669262e14f486e245a7d4b6b594d14cc
+      internalID: -222918306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 93
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9642bbf6f2dc2504380ad78c424d8903
+      internalID: -1920806439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 72
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33506ca4a02a94c4ab1eeba56e07fa9a
+      internalID: 830317057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tecla S 4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 75
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144faa664c333264ea50e6dd05f75021
+      internalID: 1288355151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a07b98e5b2b4499c747f8ec9ceee8
+      internalID: 1870854381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 72
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2cc96685009243be05d3687bf8691
+      internalID: -746908210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 75
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281149e941c699a44ab81fe28f65b478
+      internalID: -2049301102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 93
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7002020f5a8ba684b827cef004b90819
+      internalID: 1239865801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_14
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 72
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf261a29233f2642a0e5af6f6c85000
+      internalID: 1693160054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_15
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 75
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30482793cd101414f949548c90ade1bb
+      internalID: 1162258089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_16
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1a3296cec0bf24fa28a7cccabcb84b
+      internalID: 394242731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_17
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 72
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038ad09b594981f42b44649e28b6e3c5
+      internalID: 1848639349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_18
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 75
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c9f00f25e8c2c4e82a9b0a8a2a3ed8
+      internalID: 1600963711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_19
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 93
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32945f6f6ce6d7540b0ba69494d5463c
+      internalID: 317904720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_20
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 72
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ec132a97f708498373532f806706e
+      internalID: -2045937251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_21
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 75
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb36b53bce41c54fac9aa09891ee022
+      internalID: -1612848957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_22
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670acc4bdb8dcd74b80d80864eddbdcf
+      internalID: -93893224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_23
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 72
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8221dede1a54458cd56830b21959f
+      internalID: 1160361922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_24
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 75
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e51ccdc825d804196aba1d74d56550
+      internalID: -1383943135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_25
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 93
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652e214a7674765499548bb69c5017e4
+      internalID: 295989765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_26
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 72
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce0fd144e51a841b401873da0cfd09
+      internalID: 647497869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_27
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 75
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be601eb2896232a4e89c513826ce95f9
+      internalID: -1838160861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_28
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e935f2593bde4cb3910a18e0368ea
+      internalID: 297462496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_29
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 72
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088279016adc5744ca1f13ef3f4cfe4c
+      internalID: -1022758231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_30
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 75
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a6f2269aae5994da75bfcfdfff2c69
+      internalID: 506510859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_31
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 93
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5177b68ffb4d44ba044ca94847e0c6
+      internalID: -2011383671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_32
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 72
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b2247f1d4545b4893f2ef3d680359e
+      internalID: 1564990543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_33
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 75
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a784bb6d1b9632c4d8dfd892fb0d6535
+      internalID: -474019555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_34
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c9cc592e94504ca12a49b8c919c47
+      internalID: 675706548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_35
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 72
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9df7433798a8549bcbcc140d723dac
+      internalID: 1026149580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_36
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 75
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e66eb4165b2754e82d65a2a72baf7f
+      internalID: 775164285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_37
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 93
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9819052070a822f41a1a76361ed1cd72
+      internalID: -107166194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_38
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 72
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d846c94b5f70104409a193de4e346f10
+      internalID: 885965288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_39
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 75
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeb933f79b470f45a1a7046b90353db
+      internalID: -1107301794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_40
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c6ab37a92c5fc44ba9c672a3cf36de
+      internalID: -1178159566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_41
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 72
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0477ca06b153ab41b78c85249e287f1
+      internalID: -639796247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_42
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 75
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3677ca7d622e484c915d8a6ea66128d
+      internalID: 1156666556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_43
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 93
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abae7970ca552bb4db2f9ae70999fbc3
+      internalID: 1827380143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_44
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 72
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417090970c319c44b90a5e6f556da665
+      internalID: -917809546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_45
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 75
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb5cc0629c85ea4a9d02902efbf35fd
+      internalID: 888391250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_46
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1acb94f2eb671a428bd72455f844afe
+      internalID: 1564702271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_47
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 72
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e441a05c335327f4fb2fab85c774d8d0
+      internalID: 1976673114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 53
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84106be6a488034bb6dc2587f899acf
+      internalID: -280652222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1cb1f32b9ad0440b41b3f729f3e4ff
+      internalID: -1295628456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_50
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 53
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7412205bd9e8b1e4683467038b16f042
+      internalID: -853223664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_51
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9a73c002b86474993775aeae6e3528
+      internalID: -1115581059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_52
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 53
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c4b32b5463334192a382025774a6e
+      internalID: -1282865051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_53
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97c8577c7f03634389c1dfcddd94ab4
+      internalID: -242273411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_54
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 53
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d047bb21fad7643b7731c4b7d0893a
+      internalID: 1114192559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_55
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ba2618718caa04586b8f4cabacfe58
+      internalID: 2005833077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_56
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 53
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358553a5ba640c947bc85af57a82a8a7
+      internalID: 1202562104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_57
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0993859f6a0895c429fa7af2307d2a49
+      internalID: -1453497089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_58
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 53
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d17681a24059444e890f4da9c040198
+      internalID: -524503245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_59
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451fc55bcc5bf4a45b2089310017484e
+      internalID: 2061705017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_60
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 53
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d372a53549d252a4ea0ed6c2535c6a79
+      internalID: 1694911598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_61
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990212936ec8885418e9884e8af0cf99
+      internalID: 1152981030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_62
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 53
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa0fb04962d2f489d266a77e7ab8a6
+      internalID: 1616951140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_63
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7063695bd32ee3348b5e3835e3f3e32d
+      internalID: -510028256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345e77649913984ab9891762c1c76ea
+      internalID: -875388703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc30b90017d2d94da9e55c6e1994414
+      internalID: 1414282743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6269b99c66995541adf4431ae9592fd
+      internalID: 1453098576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_67
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e4ee7de288f0a4d9d699131c3314a7
+      internalID: 449169955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_68
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd94d4c31485d46ba35fed3b2ac9a0
+      internalID: -566173368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_69
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d4ea6edbb5fb340b6543fc790d1e2b
+      internalID: 987060652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_70
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda58789b2f91c648bbc1ebf05474a03
+      internalID: -1445658692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_71
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13f3094190c67242bbfe40b10acd80a
+      internalID: 371333897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_72
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46accf18c5ac8ab42b8e43b99b0ec297
+      internalID: 961581803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_73
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b57b8ee5f210345bf30c1e284a4674
+      internalID: 454777452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_74
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb2c538d53417489281a2679f3730b
+      internalID: 1554541838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_75
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921329130bd435e4ebb8aef460ad706e
+      internalID: 2021419221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_76
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba06accdf57cea4c88c9f5dee72eba6
+      internalID: 400667228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_77
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699eb7621947694ca9b03212cff26ac
+      internalID: 1948869415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_78
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 7
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f7652740a60264e882ff8e38768d65
+      internalID: 1893559692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_79
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 7
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13ad0f657449242aa76d97c2adb34e
+      internalID: 760576044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento pj izq_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 47
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f332fffb4039d2d449418bf12ffc94f6
+      internalID: 1798112929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tecla S 3: -222918306
+      Tecla S 4: 1288355151
+      movimiento pj izq_0: 1798112929
+      movimiento pj izq_1: -1162515119
+      movimiento pj izq_10: 1870854381
+      movimiento pj izq_11: -746908210
+      movimiento pj izq_12: -2049301102
+      movimiento pj izq_13: 1239865801
+      movimiento pj izq_14: 1693160054
+      movimiento pj izq_15: 1162258089
+      movimiento pj izq_16: 394242731
+      movimiento pj izq_17: 1848639349
+      movimiento pj izq_18: 1600963711
+      movimiento pj izq_19: 317904720
+      movimiento pj izq_2: 524714480
+      movimiento pj izq_20: -2045937251
+      movimiento pj izq_21: -1612848957
+      movimiento pj izq_22: -93893224
+      movimiento pj izq_23: 1160361922
+      movimiento pj izq_24: -1383943135
+      movimiento pj izq_25: 295989765
+      movimiento pj izq_26: 647497869
+      movimiento pj izq_27: -1838160861
+      movimiento pj izq_28: 297462496
+      movimiento pj izq_29: -1022758231
+      movimiento pj izq_30: 506510859
+      movimiento pj izq_31: -2011383671
+      movimiento pj izq_32: 1564990543
+      movimiento pj izq_33: -474019555
+      movimiento pj izq_34: 675706548
+      movimiento pj izq_35: 1026149580
+      movimiento pj izq_36: 775164285
+      movimiento pj izq_37: -107166194
+      movimiento pj izq_38: 885965288
+      movimiento pj izq_39: -1107301794
+      movimiento pj izq_4: -400890383
+      movimiento pj izq_40: -1178159566
+      movimiento pj izq_41: -639796247
+      movimiento pj izq_42: 1156666556
+      movimiento pj izq_43: 1827380143
+      movimiento pj izq_44: -917809546
+      movimiento pj izq_45: 888391250
+      movimiento pj izq_46: 1564702271
+      movimiento pj izq_47: 1976673114
+      movimiento pj izq_48: -280652222
+      movimiento pj izq_49: -1295628456
+      movimiento pj izq_5: -793598974
+      movimiento pj izq_50: -853223664
+      movimiento pj izq_51: -1115581059
+      movimiento pj izq_52: -1282865051
+      movimiento pj izq_53: -242273411
+      movimiento pj izq_54: 1114192559
+      movimiento pj izq_55: 2005833077
+      movimiento pj izq_56: 1202562104
+      movimiento pj izq_57: -1453497089
+      movimiento pj izq_58: -524503245
+      movimiento pj izq_59: 2061705017
+      movimiento pj izq_60: 1694911598
+      movimiento pj izq_61: 1152981030
+      movimiento pj izq_62: 1616951140
+      movimiento pj izq_63: -510028256
+      movimiento pj izq_64: -875388703
+      movimiento pj izq_65: 1414282743
+      movimiento pj izq_66: 1453098576
+      movimiento pj izq_67: 449169955
+      movimiento pj izq_68: -566173368
+      movimiento pj izq_69: 987060652
+      movimiento pj izq_7: -1920806439
+      movimiento pj izq_70: -1445658692
+      movimiento pj izq_71: 371333897
+      movimiento pj izq_72: 961581803
+      movimiento pj izq_73: 454777452
+      movimiento pj izq_74: 1554541838
+      movimiento pj izq_75: 2021419221
+      movimiento pj izq_76: 400667228
+      movimiento pj izq_77: 1948869415
+      movimiento pj izq_78: 1893559692
+      movimiento pj izq_79: 760576044
+      movimiento pj izq_8: 830317057
+      tecla A 1: -1927529131
+      tecla S 2: -1513772974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
